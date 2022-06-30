@@ -1,0 +1,32 @@
+/******************************general selectors**************************************************/
+body{
+    margin: 0px;
+}
+
+h1{
+    margin: 0px;
+}
+
+
+
+/******************************class selectors**************************************************/
+.header {
+    height: 10%;
+    width: 100%;
+    background-color:#A0BCC2 ;
+    color: #FEFBE7;
+}
+
+.middle{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.bottom {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+
+/******************************id's selectors**************************************************/
